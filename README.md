@@ -1,5 +1,5 @@
 - Hi, I’m Ramesh Singh, 
-- Email: devrsingh2@gmail.com
+- Email: devrsingh92@gmail.com
 - Phone: +91 9422412288
 - a passionate full stack web developer
 
